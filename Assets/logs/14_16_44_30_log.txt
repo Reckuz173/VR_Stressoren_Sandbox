@@ -1,0 +1,2 @@
+[14.11.2022 16:44:30] Initialized Session with parameters stored in D:/HandTrackingTestFaelle/UNITYPROJEKT/VR_Stressoren_Sandbox/Assets\settings.json
+[14.11.2022 16:44:30] Raining: False

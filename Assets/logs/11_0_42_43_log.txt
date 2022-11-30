@@ -1,0 +1,3 @@
+[11.10.2022 00:42:43] Initialized Session with parameters stored in C:/Users/Lukas/Desktop/1024 Praktikum/VR_Stressoren_Sandbox/Assets\settings.json
+[11.10.2022 00:42:44] Daylight: False
+[11.10.2022 00:42:44] Raining: False

@@ -1,0 +1,2 @@
+[05.11.2022 12:17:18] Initialized Session with parameters stored in C:/Users/Lukas/Desktop/VR_Stressoren_Sandbox/Assets\settings.json
+[05.11.2022 12:17:18] Raining: False
